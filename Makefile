@@ -4,5 +4,6 @@ DEVICE := ch32v203g6u6
 
 APP_DIR := src
 
+LIBCH32V_DIR = $(PWD)/libch32v
 
-include libch32v/module.mk
+include $(LIBCH32V_DIR)/module.mk
