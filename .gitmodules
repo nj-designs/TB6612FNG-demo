@@ -1,0 +1,3 @@
+[submodule "libch32v"]
+	path = libch32v
+	url = git@github.com:nj-designs/libch32v
